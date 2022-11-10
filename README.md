@@ -1,6 +1,6 @@
 #### Java-Cohort Java Web Exercises
 
-
+##### Holidays through to graduation 02/17
 | Holiday                                 | Date(s)                             |
 |-----------------------------------------|-------------------------------------|
 | Veterans Day                            | 11/11/2022 [Fri]                    |

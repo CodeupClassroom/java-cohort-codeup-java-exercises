@@ -1,4 +1,4 @@
-# java-cohort-codeup-java-exercises
+#### Java-Cohort Java Web Exercises
 
 
 | Holiday                                 | Date(s)                             |
@@ -8,4 +8,4 @@
 | Quarterly Meeting [Student Holiday]     | - 12/09/2022 [Fri]                  |
 | Winter Break                            | 12/19/2022 [Mon] - 12/30/2022 [Fri] |
 | Martin Luther King Jr Day               | 01/16/2023 [Mon]                    |
-| Staff Development Day [Student Holiday] | 01/27/2023                          |
+| Staff Development Day [Student Holiday] | 01/27/2023 [Fri]                    |

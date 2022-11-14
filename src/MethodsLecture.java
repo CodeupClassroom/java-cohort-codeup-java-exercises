@@ -18,12 +18,14 @@ public class MethodsLecture {
          return parseInt(x) + parseInt(y) + parseInt(z);
      }
 
-     public static void addNums(){
-         System.out.println("Woops - no nums given!");
-     }
+//     public static void addNums(){
+//         System.out.println("Woops - no nums given!");
+//     }
 
     public static void changeString(String s) {
+
         s = "Wub a lub a dub dub";
+        System.out.println("Hi; it's me inside the method - my string object has a value of: " + s);
     }
 
     public static void main(String[] args) {
@@ -41,7 +43,7 @@ public class MethodsLecture {
 
         System.out.println("addNums(\"4\", \"10\", \"100\") = " + addNums("4", "10", "100"));
 
-        addNums();
+//        addNums();
 
 //        public static void changeString(String s) {
 //            s = "Wub a lub a dub dub";
@@ -52,6 +54,15 @@ public class MethodsLecture {
         changeString(rickOrMorty);
 
         System.out.println("rickOrMorty = " + rickOrMorty);
+        System.out.println("rickOrMorty = " + rickOrMorty);
+
+
+//        System.out.println("~~~format system out~~~~");
+//
+//        System.out.printf("%s, %s is where I was born%n", "San Antonio", "Texas");
+//        System.out.printf("%s, %s is where I was born", "Houston", "Texas");
+//        System.out.printf("%s, %s is where I was born", "Dallas", "Texas");
+
 
     }
 

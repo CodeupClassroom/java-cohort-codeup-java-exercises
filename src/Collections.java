@@ -21,7 +21,7 @@ public class Collections {
 //        System.out.println(favoriteThanksgivingFoods);
 //
 //
-//        // How to add elements to an ArrayList using the .add() method
+//        // How to add elements to an ArrayList using the .add() methodliget
 //        // syntax: nameOfArrayList.add(element we're adding)
 //        favoriteThanksgivingFoods.add("bread rolls");
 //        System.out.println(favoriteThanksgivingFoods);

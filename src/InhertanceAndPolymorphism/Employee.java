@@ -2,7 +2,7 @@ package InhertanceAndPolymorphism;
 
 public class Employee extends Person{
 
-    public String jobTitle;
+//    public String jobTitle;
 
     public Employee(String employeeName, String title){
         super(employeeName);

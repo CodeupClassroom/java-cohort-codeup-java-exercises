@@ -5,6 +5,7 @@ public class Manager extends Employee{
         super(managerName, managerTitle);
     }
 
+    @Override // intention
     public String work(){
         return "managing employees";
     }

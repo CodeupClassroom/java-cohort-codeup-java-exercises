@@ -1,11 +1,11 @@
-//@SuppressWarnings()
-public class SuperHero extends Person{
-
-//    @Override
-    public String alterEgo(){
-//        @Deprecated
-//        public String name;
-//        protected String alterEgo;
+////@SuppressWarnings()
+//public class SuperHero extends Person{
 //
-//    }
-}
+////    @Override
+//    public String alterEgo(){
+////        @Deprecated
+////        public String name;
+////        protected String alterEgo;
+////
+////    }
+//}
